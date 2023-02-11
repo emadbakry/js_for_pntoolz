@@ -10,6 +10,7 @@ body {
     --primary-color:#161032;
 }
  /* login page btn */
+        #btn-email-login,
         #btn-mobile-login {
-            color: #161032;
+            color: #161032 !important;
         }
