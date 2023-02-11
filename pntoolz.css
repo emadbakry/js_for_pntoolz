@@ -12,6 +12,7 @@ body {
 }
  /* login page btn */
         #btn-email-login,
-        #btn-mobile-login {
+        #btn-mobile-login,
+        .login.form .submit {
             color: #161032 !important;
         }
