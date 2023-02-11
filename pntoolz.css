@@ -1,3 +1,7 @@
 body > *:last-child {
     font-variant: normal;
 }
+
+body {
+    --secondary-color-alt3: #f1de15;
+}
