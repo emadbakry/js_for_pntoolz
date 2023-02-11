@@ -4,4 +4,5 @@ body > *:last-child {
 
 body {
     --secondary-color-alt3: #f1de15;
+    color: #f1de15;
 }
