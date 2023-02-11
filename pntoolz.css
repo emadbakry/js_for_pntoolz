@@ -3,6 +3,7 @@ body > *:last-child {
 }
 
 body {
+    --secondary-color-alt12: #f1de15;
     --secondary-color-alt3: #f1de15;
     --secondary-color-alt5: transparent;
     color: #f1de15;
