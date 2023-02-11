@@ -6,5 +6,9 @@ body {
     --secondary-color-alt3: #f1de15;
     --secondary-color-alt5: transparent;
     color: #f1de15;
-    --primary-color:#ffea00;
+    /* --primary-color:#ffea00; */
 }
+ /* login page btn */
+        #btn-mobile-login {
+            color: #161032;
+        }
