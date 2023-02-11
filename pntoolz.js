@@ -1,4 +1,6 @@
-console.log('hello, I am js')
+console.log('hello, I am js from Emadcode.com')
+
+
 
 
 
@@ -10,8 +12,7 @@ function ALLCODES() {
     if (
       location.href == "https://pntoolz.com/" ||
       location.href ==
-        "http://127.0.0.1:5500/%D8%A8%D9%80%D9%86%D9%80%D8%AA%D9%80%D9%88%D9%84.html" ||
-      true
+        "http://127.0.0.1:5500/%D8%A8%D9%80%D9%86%D9%80%D8%AA%D9%80%D9%88%D9%84.html"
     ) {
       const icons = document.querySelectorAll(".gallery-section .gallery-item");
       //   const products_div = document.querySelectorAll(
